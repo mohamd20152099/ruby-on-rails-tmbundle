@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Add docs guide terminal images (#8819)

@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Update the heatmap module code + docs (#7045)

@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix OpenVINO missing batch-size bug (#9264)

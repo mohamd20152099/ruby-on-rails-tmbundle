@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Fix undefined ‘im_array’ bug in predict.md (#8565)

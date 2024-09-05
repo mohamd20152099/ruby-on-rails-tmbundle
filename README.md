@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add horizontal Mosaic3 augmentation (#6898)

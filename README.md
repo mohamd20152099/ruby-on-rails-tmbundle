@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
